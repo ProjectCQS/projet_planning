@@ -1,0 +1,139 @@
+D:\Quentin\DropBox\Dropbox\Projet C#\Projet_CALENDRIER\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER.csprojResolveAssemblyReference.cache
+D:\Quentin\DropBox\Dropbox\Projet C#\Projet_CALENDRIER\Projet_CALENDRIER\obj\Debug\MainWindow.baml
+D:\Quentin\DropBox\Dropbox\Projet C#\Projet_CALENDRIER\Projet_CALENDRIER\obj\Debug\MainWindow.g.cs
+D:\Quentin\DropBox\Dropbox\Projet C#\Projet_CALENDRIER\Projet_CALENDRIER\obj\Debug\App.g.cs
+D:\Quentin\DropBox\Dropbox\Projet C#\Projet_CALENDRIER\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER_MarkupCompile.cache
+D:\Quentin\DropBox\Dropbox\Projet C#\Projet_CALENDRIER\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER.g.resources
+D:\Quentin\DropBox\Dropbox\Projet C#\Projet_CALENDRIER\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER.Properties.Resources.resources
+D:\Quentin\DropBox\Dropbox\Projet C#\Projet_CALENDRIER\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER.csproj.GenerateResource.Cache
+D:\Quentin\DropBox\Dropbox\Projet C#\Projet_CALENDRIER\Projet_CALENDRIER\bin\Debug\Projet_CALENDRIER.exe
+D:\Quentin\DropBox\Dropbox\Projet C#\Projet_CALENDRIER\Projet_CALENDRIER\bin\Debug\Projet_CALENDRIER.pdb
+D:\Quentin\DropBox\Dropbox\Projet C#\Projet_CALENDRIER\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER.exe
+D:\Quentin\DropBox\Dropbox\Projet C#\Projet_CALENDRIER\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER.pdb
+D:\Quentin\DropBox\Dropbox\Projet C#\Projet_CALENDRIER\Projet_CALENDRIER\obj\Debug\Planning.baml
+D:\Quentin\DropBox\Dropbox\Projet C#\Projet_CALENDRIER\Projet_CALENDRIER\obj\Debug\Planning.g.cs
+C:\Users\Cherline\Desktop\Projet_CALENDRIER\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER.exe
+C:\Users\Cherline\Desktop\Projet_CALENDRIER\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER.pdb
+C:\Users\Cherline\Desktop\Projet_CALENDRIER\Projet_CALENDRIER\bin\Debug\Projet_CALENDRIER.exe
+C:\Users\Cherline\Desktop\Projet_CALENDRIER\Projet_CALENDRIER\bin\Debug\Projet_CALENDRIER.pdb
+C:\Users\Cherline\Desktop\Projet_CALENDRIER\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER.csprojResolveAssemblyReference.cache
+C:\Users\Cherline\Desktop\Projet_CALENDRIER\Projet_CALENDRIER\obj\Debug\MainWindow.baml
+C:\Users\Cherline\Desktop\Projet_CALENDRIER\Projet_CALENDRIER\obj\Debug\Planning.baml
+C:\Users\Cherline\Desktop\Projet_CALENDRIER\Projet_CALENDRIER\obj\Debug\MainWindow.g.cs
+C:\Users\Cherline\Desktop\Projet_CALENDRIER\Projet_CALENDRIER\obj\Debug\Planning.g.cs
+C:\Users\Cherline\Desktop\Projet_CALENDRIER\Projet_CALENDRIER\obj\Debug\App.g.cs
+C:\Users\Cherline\Desktop\Projet_CALENDRIER\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER_MarkupCompile.cache
+C:\Users\Cherline\Desktop\Projet_CALENDRIER\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER.g.resources
+C:\Users\Cherline\Desktop\Projet_CALENDRIER\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER.Properties.Resources.resources
+C:\Users\Cherline\Desktop\Projet_CALENDRIER\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER.csproj.GenerateResource.Cache
+D:\Quentin\DropBox\Dropbox\Projet C#\Projet_CALENDRIER_cherline\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER.exe
+D:\Quentin\DropBox\Dropbox\Projet C#\Projet_CALENDRIER_cherline\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER.pdb
+D:\Quentin\DropBox\Dropbox\Projet C#\Projet_CALENDRIER_cherline\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER.csprojResolveAssemblyReference.cache
+D:\Quentin\DropBox\Dropbox\Projet C#\Projet_CALENDRIER_cherline\Projet_CALENDRIER\obj\Debug\MainWindow.baml
+D:\Quentin\DropBox\Dropbox\Projet C#\Projet_CALENDRIER_cherline\Projet_CALENDRIER\obj\Debug\Planning.baml
+D:\Quentin\DropBox\Dropbox\Projet C#\Projet_CALENDRIER_cherline\Projet_CALENDRIER\obj\Debug\MainWindow.g.cs
+D:\Quentin\DropBox\Dropbox\Projet C#\Projet_CALENDRIER_cherline\Projet_CALENDRIER\obj\Debug\Planning.g.cs
+D:\Quentin\DropBox\Dropbox\Projet C#\Projet_CALENDRIER_cherline\Projet_CALENDRIER\obj\Debug\App.g.cs
+D:\Quentin\DropBox\Dropbox\Projet C#\Projet_CALENDRIER_cherline\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER_MarkupCompile.cache
+D:\Quentin\DropBox\Dropbox\Projet C#\Projet_CALENDRIER_cherline\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER.g.resources
+D:\Quentin\DropBox\Dropbox\Projet C#\Projet_CALENDRIER_cherline\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER.Properties.Resources.resources
+D:\Quentin\DropBox\Dropbox\Projet C#\Projet_CALENDRIER_cherline\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER.csproj.GenerateResource.Cache
+D:\Dropbox\5 AL\Projet C#\Calendrier_ecole\Projet_CALENDRIER_cherline\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER.exe
+D:\Dropbox\5 AL\Projet C#\Calendrier_ecole\Projet_CALENDRIER_cherline\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER.pdb
+D:\Dropbox\5 AL\Projet C#\Calendrier_ecole\Projet_CALENDRIER_cherline\Projet_CALENDRIER\bin\Debug\Projet_CALENDRIER.exe.config
+D:\Dropbox\5 AL\Projet C#\Calendrier_ecole\Projet_CALENDRIER_cherline\Projet_CALENDRIER\bin\Debug\Projet_CALENDRIER.exe
+D:\Dropbox\5 AL\Projet C#\Calendrier_ecole\Projet_CALENDRIER_cherline\Projet_CALENDRIER\bin\Debug\Projet_CALENDRIER.pdb
+D:\Dropbox\5 AL\Projet C#\Calendrier_ecole\Projet_CALENDRIER_cherline\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER.csprojResolveAssemblyReference.cache
+D:\Dropbox\5 AL\Projet C#\Calendrier_ecole\Projet_CALENDRIER_cherline\Projet_CALENDRIER\obj\Debug\MainWindow.baml
+D:\Dropbox\5 AL\Projet C#\Calendrier_ecole\Projet_CALENDRIER_cherline\Projet_CALENDRIER\obj\Debug\Planning.baml
+D:\Dropbox\5 AL\Projet C#\Calendrier_ecole\Projet_CALENDRIER_cherline\Projet_CALENDRIER\obj\Debug\MainWindow.g.cs
+D:\Dropbox\5 AL\Projet C#\Calendrier_ecole\Projet_CALENDRIER_cherline\Projet_CALENDRIER\obj\Debug\Planning.g.cs
+D:\Dropbox\5 AL\Projet C#\Calendrier_ecole\Projet_CALENDRIER_cherline\Projet_CALENDRIER\obj\Debug\App.g.cs
+D:\Dropbox\5 AL\Projet C#\Calendrier_ecole\Projet_CALENDRIER_cherline\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER_MarkupCompile.cache
+D:\Dropbox\5 AL\Projet C#\Calendrier_ecole\Projet_CALENDRIER_cherline\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER.g.resources
+D:\Dropbox\5 AL\Projet C#\Calendrier_ecole\Projet_CALENDRIER_cherline\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER.Properties.Resources.resources
+D:\Dropbox\5 AL\Projet C#\Calendrier_ecole\Projet_CALENDRIER_cherline\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER.csproj.GenerateResource.Cache
+D:\Quentin\DropBox\Dropbox\Projet C#\Projet_CALENDRIER_Sandra\Projet_CALENDRIER\bin\Debug\Projet_CALENDRIER.exe.config
+D:\Quentin\DropBox\Dropbox\Projet C#\Projet_CALENDRIER_Sandra\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER.exe
+D:\Quentin\DropBox\Dropbox\Projet C#\Projet_CALENDRIER_Sandra\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER.pdb
+D:\Dropbox\5 AL\Projet C#\Calendrier_ecole\Projet_CALENDRIER_Sandra\Projet_CALENDRIER_Sandra\Projet_CALENDRIER\bin\Debug\Projet_CALENDRIER.exe.config
+D:\Dropbox\5 AL\Projet C#\Calendrier_ecole\Projet_CALENDRIER_Sandra\Projet_CALENDRIER_Sandra\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER.exe
+D:\Dropbox\5 AL\Projet C#\Calendrier_ecole\Projet_CALENDRIER_Sandra\Projet_CALENDRIER_Sandra\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER.pdb
+D:\Dropbox\5 AL\Projet C#\Calendrier_ecole\Projet_CALENDRIER_Sandra\Projet_CALENDRIER_Sandra\Projet_CALENDRIER\bin\Debug\Projet_CALENDRIER.exe
+D:\Dropbox\5 AL\Projet C#\Calendrier_ecole\Projet_CALENDRIER_Sandra\Projet_CALENDRIER_Sandra\Projet_CALENDRIER\bin\Debug\Projet_CALENDRIER.pdb
+D:\Dropbox\5 AL\Projet C#\Calendrier_ecole\Projet_CALENDRIER_Sandra\Projet_CALENDRIER_Sandra\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER.csprojResolveAssemblyReference.cache
+D:\Dropbox\5 AL\Projet C#\Calendrier_ecole\Projet_CALENDRIER_Sandra\Projet_CALENDRIER_Sandra\Projet_CALENDRIER\obj\Debug\MainWindow.baml
+D:\Dropbox\5 AL\Projet C#\Calendrier_ecole\Projet_CALENDRIER_Sandra\Projet_CALENDRIER_Sandra\Projet_CALENDRIER\obj\Debug\Planning.baml
+D:\Dropbox\5 AL\Projet C#\Calendrier_ecole\Projet_CALENDRIER_Sandra\Projet_CALENDRIER_Sandra\Projet_CALENDRIER\obj\Debug\MainWindow.g.cs
+D:\Dropbox\5 AL\Projet C#\Calendrier_ecole\Projet_CALENDRIER_Sandra\Projet_CALENDRIER_Sandra\Projet_CALENDRIER\obj\Debug\Planning.g.cs
+D:\Dropbox\5 AL\Projet C#\Calendrier_ecole\Projet_CALENDRIER_Sandra\Projet_CALENDRIER_Sandra\Projet_CALENDRIER\obj\Debug\App.g.cs
+D:\Dropbox\5 AL\Projet C#\Calendrier_ecole\Projet_CALENDRIER_Sandra\Projet_CALENDRIER_Sandra\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER_MarkupCompile.cache
+D:\Dropbox\5 AL\Projet C#\Calendrier_ecole\Projet_CALENDRIER_Sandra\Projet_CALENDRIER_Sandra\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER.g.resources
+D:\Dropbox\5 AL\Projet C#\Calendrier_ecole\Projet_CALENDRIER_Sandra\Projet_CALENDRIER_Sandra\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER.Properties.Resources.resources
+D:\Dropbox\5 AL\Projet C#\Calendrier_ecole\Projet_CALENDRIER_Sandra\Projet_CALENDRIER_Sandra\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER.csproj.GenerateResource.Cache
+D:\Dropbox\5 AL\Projet C#\Calendrier_ecole\Projet_CALENDRIER_Sandra\Projet_CALENDRIER_Sandra V2\Projet_CALENDRIER\bin\Debug\Projet_CALENDRIER.exe.config
+D:\Dropbox\5 AL\Projet C#\Calendrier_ecole\Projet_CALENDRIER_Sandra\Projet_CALENDRIER_Sandra V2\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER.exe
+D:\Dropbox\5 AL\Projet C#\Calendrier_ecole\Projet_CALENDRIER_Sandra\Projet_CALENDRIER_Sandra V2\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER.pdb
+D:\Dropbox\5 AL\Projet C#\Calendrier_ecole\Projet_CALENDRIER_Sandra\Projet_CALENDRIER_Sandra V2 - Copie\Projet_CALENDRIER\bin\Debug\Projet_CALENDRIER.exe.config
+D:\Dropbox\5 AL\Projet C#\Calendrier_ecole\Projet_CALENDRIER_Sandra\Projet_CALENDRIER_Sandra V2 - Copie\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER.exe
+D:\Dropbox\5 AL\Projet C#\Calendrier_ecole\Projet_CALENDRIER_Sandra\Projet_CALENDRIER_Sandra V2 - Copie\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER.pdb
+D:\Dropbox\5 AL\Projet C#\Calendrier_ecole\Projet_CALENDRIER_Sandra\Projet_CALENDRIER_Sandra V2 - Copie\Projet_CALENDRIER\bin\Debug\Projet_CALENDRIER.exe
+D:\Dropbox\5 AL\Projet C#\Calendrier_ecole\Projet_CALENDRIER_Sandra\Projet_CALENDRIER_Sandra V2 - Copie\Projet_CALENDRIER\bin\Debug\Projet_CALENDRIER.pdb
+D:\Dropbox\5 AL\Projet C#\Calendrier_ecole\Projet_CALENDRIER_Sandra\Projet_CALENDRIER_Sandra V2 - Copie\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER.csprojResolveAssemblyReference.cache
+D:\Dropbox\5 AL\Projet C#\Calendrier_ecole\Projet_CALENDRIER_Sandra\Projet_CALENDRIER_Sandra V2 - Copie\Projet_CALENDRIER\obj\Debug\MainWindow.baml
+D:\Dropbox\5 AL\Projet C#\Calendrier_ecole\Projet_CALENDRIER_Sandra\Projet_CALENDRIER_Sandra V2 - Copie\Projet_CALENDRIER\obj\Debug\Planning.baml
+D:\Dropbox\5 AL\Projet C#\Calendrier_ecole\Projet_CALENDRIER_Sandra\Projet_CALENDRIER_Sandra V2 - Copie\Projet_CALENDRIER\obj\Debug\MainWindow.g.cs
+D:\Dropbox\5 AL\Projet C#\Calendrier_ecole\Projet_CALENDRIER_Sandra\Projet_CALENDRIER_Sandra V2 - Copie\Projet_CALENDRIER\obj\Debug\Planning.g.cs
+D:\Dropbox\5 AL\Projet C#\Calendrier_ecole\Projet_CALENDRIER_Sandra\Projet_CALENDRIER_Sandra V2 - Copie\Projet_CALENDRIER\obj\Debug\App.g.cs
+D:\Dropbox\5 AL\Projet C#\Calendrier_ecole\Projet_CALENDRIER_Sandra\Projet_CALENDRIER_Sandra V2 - Copie\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER_MarkupCompile.cache
+D:\Dropbox\5 AL\Projet C#\Calendrier_ecole\Projet_CALENDRIER_Sandra\Projet_CALENDRIER_Sandra V2 - Copie\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER.g.resources
+D:\Dropbox\5 AL\Projet C#\Calendrier_ecole\Projet_CALENDRIER_Sandra\Projet_CALENDRIER_Sandra V2 - Copie\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER.Properties.Resources.resources
+D:\Dropbox\5 AL\Projet C#\Calendrier_ecole\Projet_CALENDRIER_Sandra\Projet_CALENDRIER_Sandra V2 - Copie\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER.csproj.GenerateResource.Cache
+C:\Users\Cherline\Dropbox\Projet C#\Projet_CALENDRIER_Sandra+cherline\Projet_CALENDRIER\bin\Debug\Projet_CALENDRIER.exe.config
+C:\Users\Cherline\Dropbox\Projet C#\Projet_CALENDRIER_Sandra+cherline\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER.exe
+C:\Users\Cherline\Dropbox\Projet C#\Projet_CALENDRIER_Sandra+cherline\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER.pdb
+C:\Users\Cherline\Dropbox\Projet C#\Projet_CALENDRIER_Sandra+cherline\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER.csprojResolveAssemblyReference.cache
+C:\Users\Cherline\Dropbox\Projet C#\Projet_CALENDRIER_Sandra+cherline\Projet_CALENDRIER\obj\Debug\MainWindow.baml
+C:\Users\Cherline\Dropbox\Projet C#\Projet_CALENDRIER_Sandra+cherline\Projet_CALENDRIER\obj\Debug\Planning.baml
+C:\Users\Cherline\Dropbox\Projet C#\Projet_CALENDRIER_Sandra+cherline\Projet_CALENDRIER\obj\Debug\MainWindow.g.cs
+C:\Users\Cherline\Dropbox\Projet C#\Projet_CALENDRIER_Sandra+cherline\Projet_CALENDRIER\obj\Debug\Planning.g.cs
+C:\Users\Cherline\Dropbox\Projet C#\Projet_CALENDRIER_Sandra+cherline\Projet_CALENDRIER\obj\Debug\App.g.cs
+C:\Users\Cherline\Dropbox\Projet C#\Projet_CALENDRIER_Sandra+cherline\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER_MarkupCompile.cache
+C:\Users\Cherline\Dropbox\Projet C#\Projet_CALENDRIER_Sandra+cherline\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER.g.resources
+C:\Users\Cherline\Dropbox\Projet C#\Projet_CALENDRIER_Sandra+cherline\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER.Properties.Resources.resources
+C:\Users\Cherline\Dropbox\Projet C#\Projet_CALENDRIER_Sandra+cherline\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER.csproj.GenerateResource.Cache
+C:\Users\Cherline\Dropbox\Projet C#\Projet_CALENDRIER_Sandra+cherline\Projet_CALENDRIER\bin\Debug\Projet_CALENDRIER.exe
+C:\Users\Cherline\Dropbox\Projet C#\Projet_CALENDRIER_Sandra+cherline\Projet_CALENDRIER\bin\Debug\Projet_CALENDRIER.pdb
+D:\Quentin\DropBox\Dropbox\Projet C#\Projet_CALENDRIER_Sandra+cherline\Projet_CALENDRIER\bin\Debug\Projet_CALENDRIER.exe.config
+D:\Quentin\DropBox\Dropbox\Projet C#\Projet_CALENDRIER_Sandra+cherline\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER.exe
+D:\Quentin\DropBox\Dropbox\Projet C#\Projet_CALENDRIER_Sandra+cherline\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER.pdb
+D:\Quentin\DropBox\Dropbox\Projet C#\Projet_CALENDRIER_Sandra+cherline\Projet_CALENDRIER\bin\Debug\Projet_CALENDRIER.exe
+D:\Quentin\DropBox\Dropbox\Projet C#\Projet_CALENDRIER_Sandra+cherline\Projet_CALENDRIER\bin\Debug\Projet_CALENDRIER.pdb
+D:\Quentin\DropBox\Dropbox\Projet C#\Projet_CALENDRIER_Sandra+cherline\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER.csprojResolveAssemblyReference.cache
+D:\Quentin\DropBox\Dropbox\Projet C#\Projet_CALENDRIER_Sandra+cherline\Projet_CALENDRIER\obj\Debug\MainWindow.baml
+D:\Quentin\DropBox\Dropbox\Projet C#\Projet_CALENDRIER_Sandra+cherline\Projet_CALENDRIER\obj\Debug\Planning.baml
+D:\Quentin\DropBox\Dropbox\Projet C#\Projet_CALENDRIER_Sandra+cherline\Projet_CALENDRIER\obj\Debug\MainWindow.g.cs
+D:\Quentin\DropBox\Dropbox\Projet C#\Projet_CALENDRIER_Sandra+cherline\Projet_CALENDRIER\obj\Debug\Planning.g.cs
+D:\Quentin\DropBox\Dropbox\Projet C#\Projet_CALENDRIER_Sandra+cherline\Projet_CALENDRIER\obj\Debug\App.g.cs
+D:\Quentin\DropBox\Dropbox\Projet C#\Projet_CALENDRIER_Sandra+cherline\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER_MarkupCompile.cache
+D:\Quentin\DropBox\Dropbox\Projet C#\Projet_CALENDRIER_Sandra+cherline\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER.g.resources
+D:\Quentin\DropBox\Dropbox\Projet C#\Projet_CALENDRIER_Sandra+cherline\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER.Properties.Resources.resources
+D:\Quentin\DropBox\Dropbox\Projet C#\Projet_CALENDRIER_Sandra+cherline\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER.csproj.GenerateResource.Cache
+D:\Dropbox\5 AL\Projet C#\Projet_CALENDRIER_Sandra+cherline\Projet_CALENDRIER\bin\Debug\Projet_CALENDRIER.exe.config
+D:\Dropbox\5 AL\Projet C#\Projet_CALENDRIER_Sandra+cherline\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER.exe
+D:\Dropbox\5 AL\Projet C#\Projet_CALENDRIER_Sandra+cherline\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER.pdb
+D:\Dropbox\5 AL\Projet C#\Base de donnée\Projet_CALENDRIER_Sandra+cherline\Projet_CALENDRIER\bin\Debug\Projet_CALENDRIER.exe.config
+D:\Dropbox\5 AL\Projet C#\Base de donnée\Projet_CALENDRIER_Sandra+cherline\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER.exe
+D:\Dropbox\5 AL\Projet C#\Base de donnée\Projet_CALENDRIER_Sandra+cherline\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER.pdb
+D:\Dropbox\5 AL\Projet C#\Base de donnée\Projet_CALENDRIER_Sandra+cherline\Projet_CALENDRIER\bin\Debug\Projet_CALENDRIER.exe
+D:\Dropbox\5 AL\Projet C#\Base de donnée\Projet_CALENDRIER_Sandra+cherline\Projet_CALENDRIER\bin\Debug\Projet_CALENDRIER.pdb
+D:\Dropbox\5 AL\Projet C#\Base de donnée\Projet_CALENDRIER_Sandra+cherline\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER.csprojResolveAssemblyReference.cache
+D:\Dropbox\5 AL\Projet C#\Base de donnée\Projet_CALENDRIER_Sandra+cherline\Projet_CALENDRIER\obj\Debug\MainWindow.baml
+D:\Dropbox\5 AL\Projet C#\Base de donnée\Projet_CALENDRIER_Sandra+cherline\Projet_CALENDRIER\obj\Debug\Planning.baml
+D:\Dropbox\5 AL\Projet C#\Base de donnée\Projet_CALENDRIER_Sandra+cherline\Projet_CALENDRIER\obj\Debug\MainWindow.g.cs
+D:\Dropbox\5 AL\Projet C#\Base de donnée\Projet_CALENDRIER_Sandra+cherline\Projet_CALENDRIER\obj\Debug\Planning.g.cs
+D:\Dropbox\5 AL\Projet C#\Base de donnée\Projet_CALENDRIER_Sandra+cherline\Projet_CALENDRIER\obj\Debug\App.g.cs
+D:\Dropbox\5 AL\Projet C#\Base de donnée\Projet_CALENDRIER_Sandra+cherline\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER_MarkupCompile.cache
+D:\Dropbox\5 AL\Projet C#\Base de donnée\Projet_CALENDRIER_Sandra+cherline\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER.g.resources
+D:\Dropbox\5 AL\Projet C#\Base de donnée\Projet_CALENDRIER_Sandra+cherline\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER.Properties.Resources.resources
+D:\Dropbox\5 AL\Projet C#\Base de donnée\Projet_CALENDRIER_Sandra+cherline\Projet_CALENDRIER\obj\Debug\Projet_CALENDRIER.csproj.GenerateResource.Cache
