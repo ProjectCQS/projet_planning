@@ -1,0 +1,196 @@
+﻿<Window x:Class="Projet_CALENDRIER.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Fenetre_Administration" Height="558.4" Width="800">
+    <Grid>
+        <TabControl HorizontalAlignment="Left" Height="450" Margin="10,69,0,0" VerticalAlignment="Top" Width="774">
+            <TabItem Header="Gestion des Classes" Margin="2,0,-2,0" Width="192">
+                <Grid Background="#FFE5E5E5">
+                    <TabControl HorizontalAlignment="Left" Height="402" Margin="10,10,0,0" VerticalAlignment="Top" Width="749">
+                        <TabItem Header="Afficher les Classes">
+                            <Grid Background="#FFE5E5E5">
+                                <ListBox Name="listeClasse" HorizontalAlignment="Left" Height="auto" Width="300" SelectionChanged="listeClasse_SelectionChanged" />
+                                <Button Name="modifclasse" Content="Modifier" HorizontalAlignment="Center" Height="50" Width="100" VerticalAlignment="Top" Click="modifclasse_Click"></Button>
+                                <Button Name="supprclasse" Content="Supprimer" HorizontalAlignment="Center" Height="50" Width="100" VerticalAlignment="Stretch" Click="supprclasse_Click"></Button>                                
+                                <Grid Name="afficheClasse" HorizontalAlignment="Right" Width="300">
+                                    <Label  Content="Nom : " />
+                                    <Label Content="Niveau : " Margin="0,50,0,0"/>
+                                    <TextBox Name="nommodifclasse" Margin="50,0,0,0" Width="250" Height="30" VerticalAlignment="Top"/>
+                                    <ComboBox Name="niveaumodifclasse" VerticalAlignment="Top" Width="200" Height="30" Margin=" 50,50,0,0"/>
+                                </Grid>
+                            </Grid>
+
+
+                        </TabItem>
+                        <TabItem Header="Ajouter une Classe">
+                            <Grid Background="#FFE5E5E5">
+                                <TextBox x:Name="text_add_classe" HorizontalAlignment="Left" Height="30" Margin="339,172,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="300" />
+                                <Button x:Name="valider_add_classe" Content="Valider" HorizontalAlignment="Left" Height="30" Margin="278,256,0,0" VerticalAlignment="Top" Width="100" Click="valider_add_classe_Click"/>
+                                <Label Content="Saisissez le nom de la classe :" HorizontalAlignment="Left" Height="30" Margin="124,172,0,0" VerticalAlignment="Top" Width="183"/>
+                            </Grid>
+                        </TabItem>
+                    </TabControl>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Gestion des Enseignants" HorizontalAlignment="Left" Height="20" VerticalAlignment="Top" Width="192" Margin="1.075,0,-1.075,0">
+                <Grid Background="#FFE5E5E5">
+                    <TabControl HorizontalAlignment="Left" Height="398" Margin="10,10,0,0" VerticalAlignment="Top" Width="742">
+                        <TabItem Header="Afficher les Enseignants">
+                            <Grid Background="#FFE5E5E5">
+                                <ListBox Name="listeTeacher" HorizontalAlignment="Left" Height="auto" Width="300" SelectionChanged="listeTeacher_SelectionChanged"></ListBox>
+                                <Button Name="modifteacher" Content="Modifier" HorizontalAlignment="Center" Height="50" Width="100" VerticalAlignment="Top" Click="modifteacher_Click"></Button>
+                                <Button Name="supprteacher" Content="Supprimer" HorizontalAlignment="Center" Height="50" Width="100" VerticalAlignment="Stretch" Click="supprteacher_Click"></Button>
+                                <Grid Name="afficheTeacher" HorizontalAlignment="Right" Width="300">
+                                    <Label Content="Nom : " />
+                                    <Label Content="Prenom : " Margin="0,50,0,0"/>
+                                    <Label Content="Matière : " Margin="0,100,0,0"/>
+                                    <TextBox Name="nomteachermodif" Margin="50,0,0,0" Width="250" Height="30" VerticalAlignment="Top"/>
+                                    <TextBox Name="prenomteachermodif" VerticalAlignment="Top" Width="200" Height="30" Margin=" 50,50,0,0"/>
+                                    <ComboBox  x:Name="combomatieremodif" VerticalAlignment="Top" Height="30" Margin="100,100,0,0" />
+                                </Grid>
+                            </Grid>
+                        </TabItem>
+                        <TabItem Header="Ajouter un Enseignant">
+                            <Grid Background="#FFE5E5E5">
+                                <Label Content="Prénom : " HorizontalAlignment="Left" Height="30" Margin="94,83,0,0" VerticalAlignment="Top" Width="165"/>
+                                <Label Content="Nom : " HorizontalAlignment="Left" Height="30" Margin="94,139,0,0" VerticalAlignment="Top" Width="165"/>
+                                <Label Content="Matière enseignée : " HorizontalAlignment="Left" Height="30" Margin="94,195,0,0" VerticalAlignment="Top" Width="165"/>
+                                <TextBox x:Name="text_prenom_prof" HorizontalAlignment="Left" Height="30" Margin="310,83,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="238"/>
+                                <TextBox x:Name="text_nom_prof" HorizontalAlignment="Left" Height="30" Margin="310,139,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="238"/>
+                                <ComboBox  x:Name="combo_matiere_prof" VerticalAlignment="Top" Height="30" Margin="310,195,184,0" />
+                                <Button x:Name="valider_add_prof" Content="Valider" HorizontalAlignment="Left" Height="30" Margin="297,256,0,0" VerticalAlignment="Top" Width="110" Click="valider_add_prof_Click"/>
+                            </Grid>
+                        </TabItem>
+                    </TabControl>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Gestion des Elèves" HorizontalAlignment="Left" Height="20" VerticalAlignment="Top" Width="219" Margin="-27.6,0,0,0">
+                <Grid Background="#FFE5E5E5">
+                    <TabControl HorizontalAlignment="Left" Height="398" Margin="10,10,0,0" VerticalAlignment="Top" Width="742">
+                        <TabItem Header="Afficher les Elèves">
+                            <Grid Background="#FFE5E5E5">
+                                <ListBox Name="listeStudent" HorizontalAlignment="Left" Height="auto" Width="300" SelectionChanged="listeStudent_SelectionChanged"></ListBox>
+                                <Button Name="modifstudent" Content="Modifier" HorizontalAlignment="Center" Height="50" Width="100" VerticalAlignment="Top" Click="modifstudent_Click"></Button>
+                                <Button Name="supprstudent" Content="Supprimer" HorizontalAlignment="Center" Height="50" Width="100" VerticalAlignment="Stretch" Click="supprstudent_Click"></Button>
+                                <Grid Name="afficheStudent" HorizontalAlignment="Right" Width="300">
+                                    <Label Content="Nom : " />
+                                    <Label Content="Prenom : " Margin="0,50,0,0"/>
+                                    <Label Content="Classe : " Margin="0,100,0,0"/>
+                                    <TextBox  Name="nommodifstudent" Margin="50,0,0,0" Width="250" Height="30" VerticalAlignment="Top"/>
+                                    <TextBox Name="prenommodifstudent" Margin="50,50,0,0" Width="240" Height="30" VerticalAlignment="Top"/>
+                                    <ComboBox  Name="classemodifstudent" VerticalAlignment="Top" Width="200" Height="30" Margin=" 50,100,0,0" />
+                                </Grid>
+                            </Grid>
+                        </TabItem>
+                        <TabItem Header="Ajouter un Elève">
+                            <Grid Background="#FFE5E5E5">
+                                <Label Content="Prénom : " HorizontalAlignment="Left" Height="30" Margin="94,83,0,0" VerticalAlignment="Top" Width="165"/>
+                                <Label Content="Nom : " HorizontalAlignment="Left" Height="30" Margin="94,139,0,0" VerticalAlignment="Top" Width="165"/>
+                                <TextBox Name="prenomEleve" HorizontalAlignment="Left" Height="30" Margin="310,83,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="238"/>
+                                <Button Name="AddEleve" Content="Valider" HorizontalAlignment="Left" Height="30" Margin="340,286,0,0" VerticalAlignment="Top" Width="110" Click="AddEleve_Click" />
+                                <TextBox Name="nomEleve" HorizontalAlignment="Left" Height="30" Margin="310,141,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="238"/>
+                                <Label Content="Classe : " HorizontalAlignment="Left" Height="30" Margin="94,205,0,0" VerticalAlignment="Top" Width="165"/>
+                                <ComboBox x:Name="classe_to_eleve" HorizontalAlignment="Left" Height="30" Margin="313,205,0,0" VerticalAlignment="Top" Width="235"  />
+                            </Grid>
+                        </TabItem>
+                    </TabControl>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Gestion des Salles" HorizontalAlignment="Left" Height="20" VerticalAlignment="Top" Width="192" Margin="-1,0,0,0">
+                <Grid Background="#FFE5E5E5">
+                    <TabControl HorizontalAlignment="Left" Height="398" Margin="10,10,0,0" VerticalAlignment="Top" Width="742">
+                        <TabItem Header="Afficher les Salles">
+                            <Grid Background="#FFE5E5E5">
+                                <ListBox Name="listesalles"  HorizontalAlignment="Left" Height="auto" Width="300" SelectionChanged="listesalles_SelectionChanged" ></ListBox>
+                                <Button Name="modifsalle" Content="Modifier" HorizontalAlignment="Center" Height="50" Width="100" VerticalAlignment="Top" Click="modifsalle_Click"></Button>
+                                <Button  Name="supprsalle" Content="Supprimer" HorizontalAlignment="Center" Height="50" Width="100" VerticalAlignment="Stretch" Click="supprsalle_Click"></Button>
+                                <Grid Name="afficheRoom" HorizontalAlignment="Right" Width="300">
+                                    <Label Content="Nom de la salle: " />
+                                    <Label Content="Capacité : " Margin="0,50,0,0"/>
+                                    <TextBox Name="nomsallemodif" Margin="50,0,0,0" Width="250" Height="30" VerticalAlignment="Top"/>
+                                    <TextBox Name="capacitysallemodif" VerticalAlignment="Top" Width="200" Height="30" Margin=" 50,50,0,0"/>
+                                </Grid>
+                            </Grid>
+                        </TabItem>
+                        <TabItem Header="Ajouter une Salle">
+                            <Grid Background="#FFE5E5E5">
+                                <Label Content="Nom de la Salle : " HorizontalAlignment="Left" Height="30" Margin="115,104,0,0" VerticalAlignment="Top" Width="135"/>
+                                <Label Content="Capacité : " HorizontalAlignment="Left" Height="30" Margin="115,174,0,0" VerticalAlignment="Top" Width="135"/>
+                                <TextBox x:Name="text_add_nom_salle" HorizontalAlignment="Left" Height="30" Margin="317,104,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="261"/>
+                                <TextBox x:Name="text_add_capacite_salle" HorizontalAlignment="Left" Height="30" Margin="317,174,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="261"/>
+                                <Button x:Name="valider_add_salle" Content="Valider" HorizontalAlignment="Left" Height="30" Margin="285,271,0,0" VerticalAlignment="Top" Width="110" Click="valider_add_salle_Click"/>
+                            </Grid>
+                        </TabItem>
+                    </TabControl>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Gestion des Matières" HorizontalAlignment="Left" Height="20" VerticalAlignment="Top" Width="192" Margin="-1,0,0,0">
+                <Grid Background="#FFE5E5E5">
+                    <TabControl HorizontalAlignment="Left" Height="398" Margin="10,10,0,0" VerticalAlignment="Top" Width="742">
+                        <TabItem Header="Afficher les matières">
+                            <Grid Background="#FFE5E5E5">
+                                <ListBox Name="listematiere"  HorizontalAlignment="Left" Height="auto" Width="300" SelectionChanged="listematiere_SelectionChanged" ></ListBox>
+                                <Button Name="modifmatiere" Content="Modifier" HorizontalAlignment="Center" Height="50" Width="100" VerticalAlignment="Top" Click="modifmatiere_Click"></Button>
+                                <Button  Name="supprmatiere" Content="Supprimer" HorizontalAlignment="Center" Height="50" Width="100" VerticalAlignment="Stretch" Click="supprmatiere_Click"></Button>
+                                <Canvas Name="affichematiere" HorizontalAlignment="Right" Width="300">
+                                    <Label Content="Nom de la matiere: " />
+                                    <TextBox Name="nommatieremodif" Margin="50,0,0,0" Width="250" Height="30" VerticalAlignment="Top"/>
+                                </Canvas>
+                            </Grid>
+                        </TabItem>
+                        <TabItem Header="Ajouter une matiere">
+                            <Grid Background="#FFE5E5E5">
+                                <Label Content="Nom de la matiere : " HorizontalAlignment="Left" Height="30" Margin="115,104,0,0" VerticalAlignment="Top" Width="135"/>
+                                <TextBox x:Name="text_add_matiere" HorizontalAlignment="Left" Height="30" Margin="317,104,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="261"/>
+                                <Button x:Name="valider_add_matiere" Content="Valider" HorizontalAlignment="Left" Height="30" Margin="285,271,0,0" VerticalAlignment="Top" Width="110" Click="valider_add_matiere_Click"/>
+                            </Grid>
+                        </TabItem>
+                    </TabControl>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Gestion des Cours" HorizontalAlignment="Left" Height="20" VerticalAlignment="Top" Width="192" Margin="-1,0,0,0">
+                <Grid Background="#FFE5E5E5">
+                    <TabControl HorizontalAlignment="Left" Height="398" Margin="10,10,0,0" VerticalAlignment="Top" Width="742">
+                        <TabItem Header="Afficher les Cours">
+                            <Grid Background="#FFE5E5E5">
+                                <ListBox x:Name="listecours"  HorizontalAlignment="Left" Height="auto" Width="300" SelectionChanged="listecours_SelectionChanged"  />
+                                <Button  x:Name="supprcours" Content="Supprimer" HorizontalAlignment="Center" Height="50" Width="100" VerticalAlignment="Stretch" Margin="327,10,305,306" Click="supprcours_Click"/>
+                                <Canvas x:Name="detCours" HorizontalAlignment="Right" Width="300">
+                                    <Label Content="Professeur: " Margin="0,0,0,0"/>
+                                    <TextBox x:Name="coursprof" Margin="50,0,0,0" Width="250" Height="30" VerticalAlignment="Top"/>
+                                    <Label Content="Cours: " Margin="0,50,0,0" />
+                                    <TextBox x:Name="coursmatiere" Margin="50,50,0,0" Width="250" Height="30" VerticalAlignment="Top"/>
+                                    <Label Content="Salle: " Margin="0,100,0,0"/>
+                                    <TextBox x:Name="courssalle" Margin="50,100,0,0" Width="250" Height="30" VerticalAlignment="Top"/>
+                                    <Label Content="Classe: " Margin="0,150,0,0"/>
+                                    <TextBox x:Name="coursclasse" Margin="50,150,0,0" Width="250" Height="30" VerticalAlignment="Top"/>
+                                    <Label Content="Date: " Margin="0,200,0,0"/>
+                                    <TextBox x:Name="coursdate" Margin="50,200,0,0" Width="250" Height="30" VerticalAlignment="Top"/>
+                                </Canvas>
+                            </Grid>
+                        </TabItem>
+                        <TabItem Header="Ajouter un Cours">
+                            <Grid Background="#FFE5E5E5">
+                                <Button x:Name="valider_add_cours" Content="Valider" HorizontalAlignment="Left" Height="30" Margin="289,299,0,0" VerticalAlignment="Top" Width="110" Click="valider_add_cours_Click" />
+                                <Label Content="Enseignant : " HorizontalAlignment="Left" Height="24" Margin="126,55,0,0" VerticalAlignment="Top" Width="109"/>
+                                <Label Content="Matière : " HorizontalAlignment="Left" Height="24" Margin="126,99,0,0" VerticalAlignment="Top" Width="109"/>
+                                <Label Content="Classe : " HorizontalAlignment="Left" Height="27" Margin="126,144,0,0" VerticalAlignment="Top" Width="109" RenderTransformOrigin="0.397,2.611"/>
+                                <Label Content="Salle" HorizontalAlignment="Left" Height="27" Margin="126,188,0,0" VerticalAlignment="Top" Width="109"/>
+                                <ComboBox x:Name="add_cours_enseignant" HorizontalAlignment="Left" Height="24" Margin="327,55,0,0" VerticalAlignment="Top" Width="271" SelectionChanged="add_cours_enseignant_SelectionChanged"/>
+                                <ComboBox x:Name="add_cours_room" HorizontalAlignment="Left" Height="24" Margin="327,188,0,0" VerticalAlignment="Top" Width="271"/>
+                                <ComboBox x:Name="add_cours_classe" HorizontalAlignment="Left" Height="24" Margin="327,144,0,0" VerticalAlignment="Top" Width="271"/>
+                                <TextBox x:Name="add_cours_matiere" HorizontalAlignment="Left" Height="24" Margin="327,99,0,0" VerticalAlignment="Top" Width="271"/>
+                                <Label Content="Date et heure" HorizontalAlignment="Left" Height="27" Margin="126,230,0,0" VerticalAlignment="Top" Width="109"/>
+                                <DatePicker x:Name="datecours" HorizontalAlignment="Left" Margin="327,233,0,0" VerticalAlignment="Top"/>
+                                <ComboBox x:Name="add_cours_heure" HorizontalAlignment="Left" Height="28" Margin="528,233,0,0" VerticalAlignment="Top" Width="99"/>
+                            </Grid>
+                        </TabItem>
+                    </TabControl>
+                </Grid>
+            </TabItem>
+        </TabControl>
+        <Button x:Name="BouttonPlanning" Content="Afficher le Planning" HorizontalAlignment="Left" Height="30" Margin="243,21,0,0" VerticalAlignment="Top" Width="263" Click="BouttonPlanning_Click"/>
+        
+
+    </Grid>
+</Window>
